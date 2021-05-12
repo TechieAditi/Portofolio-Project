@@ -25,6 +25,9 @@ const Navbar = () => {
         <a className="nav-link" href="#">services <span className="sr-only">(current)</span></a>
       </li>
       <li className="nav-item">
+        <a className="nav-link" href="#">experience</a>
+      </li>
+      <li className="nav-item">
         <a className="nav-link" href="#">portfolio</a>
       </li>
       <li className="nav-item">
