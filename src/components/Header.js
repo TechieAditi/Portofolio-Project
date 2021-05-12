@@ -5,7 +5,8 @@ function Header() {
     return (
        <div className="header-wraper">
        <div className="main-info">
-           <h1>hello</h1>
+           <h1><b><i>Hey there,</i></b></h1>
+           <h2>I am</h2>
            <Typed className="typed-text" strings={["Software Developer", "Web Application Developer", "Android Application Developer", "Competitive Coder", "Inquisitive Learner", "CS Engineer"]}
            typeSpeed={40}
            backSpeed={60}
